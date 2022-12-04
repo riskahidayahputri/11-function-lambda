@@ -22,18 +22,23 @@ dan berikut hasilnya :
 dan Berikut hasilnya :
 
 Jika memilih opsi C = menambah data maka akan tampil sebagai berikut :
+
 <img width="788" alt="Screenshot 2022-12-04 134238" src="https://user-images.githubusercontent.com/115815582/205479493-1b6e1e32-5c18-42d1-ace8-dd580545577a.png">
 
 Jika memilih opsi R = Melihat semua data maka akan tampil sebagai berikut :
+
 <img width="791" alt="Screenshot 2022-12-04 134443" src="https://user-images.githubusercontent.com/115815582/205479505-02828e2b-6284-4269-9f19-96c0c08900d1.png">
 
 Jika memilih opsi U = mengupdate data maka akan tampil sebagai berikut :
+
 <img width="788" alt="Screenshot 2022-12-04 140710" src="https://user-images.githubusercontent.com/115815582/205479532-188c0424-fb4a-43f3-aee3-c990b13a871a.png">
 
 Jika memilih opsi D = Menghapus data maka akan tampil sebagai berikut :
+
 <img width="800" alt="Screenshot 2022-12-04 140550" src="https://user-images.githubusercontent.com/115815582/205479547-53cd10c8-92c7-432d-92f9-b3c13cb35bc6.png">
 
 Jika memilih opsi Q = Keluar Program maka akan tampil sebagai berikut :
+
 <img width="781" alt="Screenshot 2022-12-04 140927" src="https://user-images.githubusercontent.com/115815582/205479561-b396e526-47a3-47a1-81f7-2b21916eaf2e.png">
 
 seperti itulah program vrud sederhana yang saya buat, mohon maaf jika ada kesalahan
